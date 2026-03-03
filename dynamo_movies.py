@@ -1,5 +1,7 @@
 # CS178 - Lab 8 Starter
 #Noelle Burke
+#version 2
+#hello world!
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
